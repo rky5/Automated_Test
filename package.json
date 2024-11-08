@@ -7,5 +7,13 @@
   },
   "author": "Ranjit Kumar Yadav",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.48.2",
+    "dotenv": "^16.4.5",
+    "winston": "^3.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0"
+  }
 }
